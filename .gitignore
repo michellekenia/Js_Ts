@@ -1,0 +1,4 @@
+tsconfig
+/dist
+/node_modules
+
